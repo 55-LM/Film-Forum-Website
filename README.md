@@ -1,5 +1,5 @@
 # Film-Forum-Website
 <div align="center">
-  <img src="./filmlyhome.png" />
+  <img src="./filmyhome.png" />
 </div>
 <br/>
